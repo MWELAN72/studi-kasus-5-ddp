@@ -12,6 +12,7 @@ Program meminta input berupa jenis kendaraan,jam masuk,dan jam keluar. dari jam 
 setelah itu, function dipanggil untuk menghitung total biaya parkir dengan cara mengalikan tarif dengan lama parkir.Hasil perhitungan dikembalikan menggunakan 'return'.
 
 Program berhasil dialankan dan menghasillkan output sesuai dengan perhitungan biaya parkir.
+![Screenshot Output](Output.png)
 
 
 
